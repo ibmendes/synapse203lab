@@ -1,0 +1,10 @@
+{
+	"name": "adls2stg203",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://stg203wks.dfs.core.windows.net/"
+		}
+	}
+}
